@@ -13,7 +13,7 @@
 
 
 ## Introduce
-inMap is a big data visualization library based on Baidu map. It focuses on the scatter, heat map, grid and aggregation algorithm. Make it easy to use.
+inMap is a big data visualization library based on Baidu map. It focuses on the scatter, heat map, grid and aggregation algorithm which makes it easy to use.
 
 ## Features
 - High performance.
